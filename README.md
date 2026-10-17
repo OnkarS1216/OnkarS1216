@@ -143,14 +143,14 @@ Computer Engineering graduate from **Sinhgad Academy of Engineering, Savitribai 
 | **Swami Vivekanand Academy**, Chhatrapati Sambhajinagar | Secondary (10th) – MSBSHSE | 2020 | 93.40% |
 
 <!-- ===================== CERTIFICATIONS (DIMFLIX-style) ===================== -->
-## 🏆 Prize places and achievements
+## 🏆 certificates
 
 <p align="center">
   <img src="./assets/certificates/avishkar_2nd.svg" width="32%" alt="Avishkar Research Project Competition – 2nd Place (StenoAssist)" />
   <img src="./assets/certificates/hackerrank_cpp.svg" width="32%" alt="HackerRank 5-Star C++" />
 </p>
 
-## ⚜️ Significant certificates
+
 
 <p align="center">
   <a href="./assets/certificates/aws_ccp.svg"><img src="./assets/certificates/aws_ccp.svg" width="32%" alt="AWS Certified Cloud Practitioner (CLF-C02)" /></a>
