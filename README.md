@@ -85,7 +85,7 @@ Computer Engineering graduate from **Sinhgad Academy of Engineering, Savitribai 
     <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub" /><br>GitHub</td>
     <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" /><br>Jupyter</td>
     <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" width="48" height="48" alt="SQL" /><br>SQL</td>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/whatsapp/whatsapp-original.svg" width="48" height="48" alt="WhatsApp API" /><br>WhatsApp API</td>
+   
   </tr>
   <tr>
     <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" /><br>Node.js</td>
