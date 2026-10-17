@@ -16,10 +16,6 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J1a3Q1cTB0MGg2d2p0Z3g2eTJpY3J3a3Rqd3VzdnE1a2l3a3ZrbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="420" alt="Animated machine learning visual" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/onkar-shinde16/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:onkarshinde1609@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/OnkarS1216"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -143,69 +139,23 @@ Computer Engineering graduate from **Sinhgad Academy of Engineering, Savitribai 
 | **Swami Vivekanand Academy**, Chhatrapati Sambhajinagar | Secondary (10th) – MSBSHSE | 2020 | 93.40% |
 
 <!-- ===================== CERTIFICATIONS (DIMFLIX-style) ===================== -->
-## 🏆 certificates
+## 🏆 Certificates
 
 <p align="center">
-  <img src="./assets/certificates/avishkar_2nd.svg" width="32%" alt="Avishkar Research Project Competition – 2nd Place (StenoAssist)" />
-  <img src="./assets/certificates/hackerrank_cpp.svg" width="32%" alt="HackerRank 5-Star C++" />
-</p>
-
-
-
-<p align="center">
-  <a href="./assets/certificates/aws_ccp.svg"><img src="./assets/certificates/aws_ccp.svg" width="32%" alt="AWS Certified Cloud Practitioner (CLF-C02)" /></a>
-  <a href="./assets/certificates/python_iitb.svg"><img src="./assets/certificates/python_iitb.svg" width="32%" alt="Python Certification – IIT Bombay Spoken Tutorial" /></a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" alt="divider" />
-</p>
-
-### 📊 Vital Statistics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OnkarS1216&theme=radical" alt="Streak" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OnkarS1216&theme=radical" alt="GitHub profile contribution summary" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OnkarS1216&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnkarS1216&layout=compact&theme=radical&hide_border=true" height="165" alt="Top languages" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=OnkarS1216&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
+  <img src="./assets/certificates/aws_ccp.svg" width="45%" alt="AWS Certified Cloud Practitioner (CLF-C02)" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg" width="100%" alt="divider" />
 </p>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<h3 align="center">📫 Contact</h3>
 
-### 🤝 Collaboration
-
-I'm open to collaborating on:
-
-- Cloud architecture, DevOps &amp; CI/CD automation projects
-- AI / LLM-powered applications
-- Computer vision & OCR systems
-- Full-stack web applications
-
-</td>
-<td width="50%" valign="top">
-
-### 📫 Contact
-
-<a href="mailto:onkarshinde1609@gmail.com"><img src="https://img.shields.io/badge/Email-onkarshinde1609%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email contact link" /></a><br>
-<a href="https://www.linkedin.com/in/onkar-shinde16/"><img src="https://img.shields.io/badge/LinkedIn-onkar--shinde16-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile link" /></a><br>
-<a href="https://github.com/OnkarS1216"><img src="https://img.shields.io/badge/GitHub-OnkarS1216-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="mailto:onkarshinde1609@gmail.com"><img src="https://img.shields.io/badge/Email-onkarshinde1609%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email contact link" /></a>
+  <a href="https://www.linkedin.com/in/onkar-shinde16/"><img src="https://img.shields.io/badge/LinkedIn-onkar--shinde16-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile link" /></a>
+  <a href="https://github.com/OnkarS1216"><img src="https://img.shields.io/badge/GitHub-OnkarS1216-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg" width="100%" alt="divider" />
