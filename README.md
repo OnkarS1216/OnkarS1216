@@ -16,6 +16,10 @@
 </p>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J1a3Q1cTB0MGg2d2p0Z3g2eTJpY3J3a3Rqd3VzdnE1a2l3a3ZrbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="420" alt="Animated machine learning visual" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/onkar-shinde16/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:onkarshinde1609@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/OnkarS1216"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -25,7 +29,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg" width="100%" alt="divider" />
 </p>
-
 <!-- ===================== CORE PANEL ===================== -->
 <p align="center">
   <img src="./assets/onkar_core.svg" width="860" alt="Onkar system core panel" />
