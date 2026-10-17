@@ -101,6 +101,9 @@ Computer Engineering graduate from **Sinhgad Academy of Engineering, Savitribai 
     <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" /><br>Bash</td>
     <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yaml/yaml-original.svg" width="48" height="48" alt="YAML" /><br>YAML</td>
   </tr>
+  <tr>
+    <td align="center" width="96" colspan="5"><img src="https://cdn.simpleicons.org/claude/D97757" width="48" height="48" alt="Claude Code" /><br>Claude Code</td>
+  </tr>
 </table>
 
 **Core Concepts:** Data Structures & Algorithms · Object-Oriented Programming · REST APIs · Computer Networks · Operating Systems
@@ -122,7 +125,7 @@ Computer Engineering graduate from **Sinhgad Academy of Engineering, Savitribai 
 <summary><h2>🧠 Domains</h2></summary>
 
 - ☁️ **Cloud Computing** — AWS networking, high availability, scalability, cloud security
-- 🤖 **AI / ML** — Deep learning, OCR, computer vision, Large Language Models
+- 🤖 **AI / ML** — Deep learning, OCR, computer vision, Large Language Models, AI-assisted development with Claude Code
 - ⚙️ **DevOps** — Docker, Kubernetes, Terraform (IaC), Nginx, CI/CD pipelines, Linux
 - 🌐 **Full-Stack Development** — Flask / React / Node.js apps, REST APIs, MongoDB &amp; SQL, authentication
 - ⚙️ **Automation** — chat-driven workflows and backend automation
